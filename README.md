@@ -1,4 +1,4 @@
-# Hi there, I'm Bria Cooper-Jones!
+# Hi there, I'm Bria
 ### Aspiring IAM 
 
 ---
