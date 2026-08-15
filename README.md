@@ -20,7 +20,7 @@ I am a aspiring IT and cybersecurity professional currently building my technica
 
 ###  1. Cloud Identity & RBAC Implementation
 Configured a secure cloud identity infrastructure in Microsoft Entra ID for a fictional 50-person organization. Implemented custom security groups, department-specific permissions, and verified the strict enforcement of Least Privilege access.
-👉 **[View Full Project Documentation & Screenshots](Projects)**
+👉 **[View Full Project Documentation & Screenshots](Documentation)**
 
 ### 2. Helpdesk IAM Troubleshooting Lab
 Documented step-by-step technical procedures for resolving common enterprise identity access and account lockout issues. This lab demonstrates my logical workflow for verifying user identity, managing inheritance, and auditing system logs.
