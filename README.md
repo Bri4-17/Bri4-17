@@ -24,4 +24,4 @@ Configured a secure cloud identity infrastructure in Microsoft Entra ID for a fi
 
 ### 2. Helpdesk IAM Troubleshooting Lab
 Documented step-by-step technical procedures for resolving common enterprise identity access and account lockout issues. This lab demonstrates my logical workflow for verifying user identity, managing inheritance, and auditing system logs.
-👉 **[View Full Project Documentation & Troubleshooting Log](./projects/iam-troubleshooting/)**
+👉 **[View Full Project Documentation & Troubleshooting Log](Projects)**
