@@ -1,6 +1,6 @@
 # Hi there, I'm Bria
 ### Aspiring IAM 
-
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/bria-cooper-jones-67141637a/)
 ---
 
 ## About Me
