@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I am a foundational IT professional currently building my technical baseline through the **Cisco Networking Academy** path. My goal is to specialize in Identity and Access Management (IAM), focusing on secure cloud deployments and enforcing zero-trust network principles.
+I am a aspiring IT and cybersecurity professional currently building my technical baseline through the **Cisco Networking Academy** path as of now. My goal is to specialize in Identity and Access Management (IAM) and even flourish in other branches in this field!
 
 ---
 
